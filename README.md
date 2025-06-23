@@ -1,4 +1,4 @@
-# Saucedemo Site Automation Testing Assessment: Performance_glitch_user
+# Saucedemo Site Automation Testing Assessment: Performance_Glitch_User
 
 Feature: 
 Open the login page: https://www.saucedemo.com/
